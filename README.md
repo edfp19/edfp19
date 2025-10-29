@@ -19,4 +19,4 @@
 
 Results-driven Data Science and Senior Data Analyst with a track record of delivering over $28M in cost savings through advanced analytics, statistical modeling, and supply chain optimization for global leaders in various industries. Expert in architecting data pipelines, developing predictive models, and creating intuitive dashboards to enhance visibility and drive strategic decision-making.
 
-I use this repository for practica and personal projects. 
+I use this repository for practice, personal projects and whenever I'm trying to learn something new or refresh something I know.
